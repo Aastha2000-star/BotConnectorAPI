@@ -34,3 +34,43 @@
 /Users/kogan/git/azure/myBotConnector/bin/Debug/net7.0/Microsoft.Bot.Connector.DirectLine.dll
 /Users/kogan/git/azure/myBotConnector/bin/Debug/net7.0/Microsoft.Rest.ClientRuntime.dll
 /Users/kogan/git/azure/myBotConnector/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\myBotConnector.staticwebassets.endpoints.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\myBotConnector.exe
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\myBotConnector.deps.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\myBotConnector.runtimeconfig.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\myBotConnector.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\myBotConnector.pdb
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Microsoft.Bot.Connector.DirectLine.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.csproj.AssemblyReference.cache
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.AssemblyInfoInputs.cache
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.AssemblyInfo.cs
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.csproj.CoreCompileInputs.cache
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.sourcelink.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\scopedcss\bundle\myBotConnector.styles.css
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets\msbuild.myBotConnector.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets\msbuild.myBotConnector.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.myBotConnector.props
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.myBotConnector.props
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.myBotConnector.props
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotCon.E09469CC.Up2Date
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\refint\myBotConnector.dll
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.pdb
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\myBotConnector.genruntimeconfig.cache
+C:\Users\aastha.ramteke\OneDrive - Accenture\Desktop\Whatsapp\BotConnectorAPI\obj\Debug\net7.0\ref\myBotConnector.dll

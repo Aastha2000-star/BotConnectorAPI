@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kogan/git/azure/myBotConnector/myBotConnector.csproj": {}
+    "C:\\Users\\aastha.ramteke\\OneDrive - Accenture\\Desktop\\Whatsapp\\BotConnectorAPI\\myBotConnector.csproj": {}
   },
   "projects": {
-    "/Users/kogan/git/azure/myBotConnector/myBotConnector.csproj": {
+    "C:\\Users\\aastha.ramteke\\OneDrive - Accenture\\Desktop\\Whatsapp\\BotConnectorAPI\\myBotConnector.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kogan/git/azure/myBotConnector/myBotConnector.csproj",
+        "projectUniqueName": "C:\\Users\\aastha.ramteke\\OneDrive - Accenture\\Desktop\\Whatsapp\\BotConnectorAPI\\myBotConnector.csproj",
         "projectName": "myBotConnector",
-        "projectPath": "/Users/kogan/git/azure/myBotConnector/myBotConnector.csproj",
-        "packagesPath": "/Users/kogan/.nuget/packages/",
-        "outputPath": "/Users/kogan/git/azure/myBotConnector/obj/",
+        "projectPath": "C:\\Users\\aastha.ramteke\\OneDrive - Accenture\\Desktop\\Whatsapp\\BotConnectorAPI\\myBotConnector.csproj",
+        "packagesPath": "C:\\Users\\aastha.ramteke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aastha.ramteke\\OneDrive - Accenture\\Desktop\\Whatsapp\\BotConnectorAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/kogan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\aastha.ramteke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -32,7 +32,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net7.0": {
@@ -66,6 +72,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,7 +98,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.2.24474.11\\RuntimeIdentifierGraph.json"
         }
       }
     }
